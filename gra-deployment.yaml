@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: gra-container
-        image: szymkos/blockrain-game:latest
+        image: szymkos/blockrain-game:v2
